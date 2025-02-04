@@ -22,4 +22,4 @@ Ini adalah sebuah API sederhana yang dibangun menggunakan Node.js dan Express. A
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/username/nodejs-api.git
+   [git clone https://github.com/username/nodejs-api.git](https://github.com/alifanLeywin/server-API-nodeJs.git)
